@@ -3,7 +3,7 @@
 ## Video and Report
 
 [Video]()
-[Report](./report.pdf)
+[Report](./REPORT.pdf)
 
 ## How to run the code
 
@@ -87,3 +87,9 @@ P.S. How to clean all the data?
 ```
 flask --app app.web init-db
 ```
+
+## Contact me
+
+yin.qian@northeasten.edu
+
+I would like NOT to share the project on public platforms.
