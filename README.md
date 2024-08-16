@@ -2,7 +2,7 @@
 
 ## Video and Report
 
-[Video]()
+[Video](https://www.youtube.com/watch?v=glCA0Id72eE)
 [Report](./REPORT.pdf)
 
 ## How to run the code
